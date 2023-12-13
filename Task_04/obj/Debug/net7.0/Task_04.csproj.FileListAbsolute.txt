@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\bin\Debug\net7.0\Task_04.exe
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\bin\Debug\net7.0\Task_04.deps.json
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\bin\Debug\net7.0\Task_04.runtimeconfig.json
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\bin\Debug\net7.0\Task_04.dll
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\bin\Debug\net7.0\Task_04.pdb
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.dll
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\refint\Task_04.dll
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.pdb
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\Task_04.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Dastan\DZ_Lesson_5\Task_04\obj\Debug\net7.0\ref\Task_04.dll
